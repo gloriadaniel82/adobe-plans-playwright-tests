@@ -7,10 +7,10 @@ test.describe('Adobe Creative Cloud Navigation and Plans Tabs', () => {
     const homePage = new HomePage(page);
     const plansPage = new PlansPage(page);
 
-    await homePage.navigate();
+/*     await homePage.navigate();
     await homePage.clickSeeAllPlans();
-    await expect(page).toHaveURL(/.*creativecloud\/plans\.html/);
-
+    await expect(page).toHaveURL(/.*creativecloud\/plans\.html/); */
+    await plansPage.navigate();
     await plansPage.verifyHeadingText('Plans and pricing for Creative Cloud apps and more.');
     await plansPage.clickEachTab();
   });

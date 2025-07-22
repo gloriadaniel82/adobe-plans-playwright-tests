@@ -10,6 +10,10 @@ export class PlansPage {
     this.heading = page.locator('h1'); 
   }
 
+    async navigate() {
+    await this.page.goto('https://www.adobe.com/creativecloud/plans.html', { waitUntil: 'domcontentloaded' });
+  }
+
   async verifyHeadingText(expectedText: string) {
     await expect(this.heading).toHaveText(expectedText);
   }
