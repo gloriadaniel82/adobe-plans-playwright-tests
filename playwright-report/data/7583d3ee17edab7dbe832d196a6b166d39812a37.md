@@ -1,0 +1,305 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - navigation "Main":
+    - link "Adobe":
+      - /url: https://www.adobe.com/
+      - img "Adobe, Inc."
+    - list:
+      - listitem:
+        - button "Creativity & Design"
+      - listitem:
+        - button "PDF & E-signatures"
+      - listitem:
+        - button "Marketing & Commerce"
+      - listitem:
+        - button "Learn & Support"
+    - button "App switcher":
+      - img
+    - button "Sign in"
+- main:
+  - heading "Next-gen apps for dreamers and doers." [level=2]:
+    - strong: Next-gen apps for dreamers and doers.
+  - paragraph: Bring any idea to life with products for creators, businesses, and beyond.
+  - paragraph:
+    - link "View all products":
+      - /url: /products/catalog.html
+  - button "Pause motion 1" [pressed]:
+    - img "Play motion"
+  - heading "Begin your Adobe journey today." [level=2]
+  - img
+  - paragraph
+  - heading "Your complete toolkit for creativity." [level=3]
+  - paragraph:
+    - text: Get all the tools you need for any creative project, including Photoshop, Illustrator, and Premiere Pro.
+    - link "Plus, students save 57%":
+      - /url: /creativecloud/buy/students.html
+    - text: .
+  - link "Start free Trial - CCSN - INDIVIDUAL":
+    - /url: https://commerce.adobe.com/store/segmentation?cli=creative&ctx=if&co=US&lang=en&ms=COM&ot=TRIAL&cs=INDIVIDUAL&pa=ccsn_direct_individual&rtc=t&lo=sl&af=uc_new_user_iframe%2Cuc_new_system_close
+    - text: Start free Trial
+  - link "Learn more":
+    - /url: /creativecloud/pro.html
+  - img
+  - paragraph
+  - heading "The next evolution in creative AI." [level=3]
+  - paragraph: Turn your ideas into beautiful images, video, audio, and vector graphics quickly with commercially safe generative AI models.
+  - link "Create with Firefly":
+    - /url: https://firefly.adobe.com/
+  - link "Learn more":
+    - /url: /products/firefly.html
+  - img
+  - paragraph
+  - heading "Secure, streamlined PDF workflows." [level=3]
+  - paragraph: Create, edit, sign, and collaborate easily, anywhere with the world’s leading PDF document platform. Now with AI assistance.
+  - link "Start free trial - APCC - INDIVIDUAL":
+    - /url: https://commerce.adobe.com/store/segmentation?cli=creative&ctx=if&co=US&lang=en&ms=COM&ot=TRIAL&cs=INDIVIDUAL&pa=apcc_direct_individual&rtc=t&lo=sl&af=uc_new_user_iframe%2Cuc_new_system_close
+    - text: Start free trial
+  - link "Learn more":
+    - /url: /acrobat.html
+  - img
+  - paragraph:
+    - img "Adobe for Business"
+  - heading "Smart business solutions that scale." [level=3]
+  - paragraph: Deliver great customer experiences with on-brand AI-powered content generation, real-time insights, and more.
+  - link "Explore products for business":
+    - /url: https://business.adobe.com/
+  - heading "Amazing apps. Endless possibilities." [level=2]
+  - heading "What’s new at Adobe." [level=1]
+  - heading "Photoshop arrives on Android." [level=3]:
+    - button "Photoshop arrives on Android." [expanded]
+  - paragraph: Photoshop on mobile is now available for Android, empowering more creators to bring their ideas to life with creative freedom, anytime and anywhere.
+  - paragraph:
+    - link "Read the story":
+      - /url: https://blog.adobe.com/en/publish/2025/06/03/photoshop-arrives-on-android
+  - heading "Turn video into social clips quickly in Adobe Express." [level=3]:
+    - button "Turn video into social clips quickly in Adobe Express."
+  - heading "Introducing Firefly AI and Creative Cloud upgrades." [level=3]:
+    - button "Introducing Firefly AI and Creative Cloud upgrades."
+  - heading "Discover agentic AI at Adobe." [level=3]:
+    - button "Discover agentic AI at Adobe."
+  - heading "The next evolution of creative AI is here." [level=3]:
+    - button "The next evolution of creative AI is here."
+- contentinfo:
+  - heading "Shop for" [level=2]
+  - list:
+    - listitem:
+      - link "Creative Cloud":
+        - /url: /creativecloud.html
+    - listitem:
+      - link "Photoshop":
+        - /url: /products/photoshop.html
+    - listitem:
+      - link "Adobe Express":
+        - /url: /express/?promoid=Z2G1FSYV&mv=other
+    - listitem:
+      - link "Photography":
+        - /url: /creativecloud/photography.html
+    - listitem:
+      - link "Premiere Pro":
+        - /url: /products/premiere.html
+    - listitem:
+      - link "Adobe Stock":
+        - /url: https://stock.adobe.com/
+    - listitem:
+      - link "Elements Family":
+        - /url: /products/elements-family.html
+    - listitem:
+      - link "Document Cloud":
+        - /url: /acrobat/business.html
+    - listitem:
+      - link "Acrobat":
+        - /url: /acrobat.html
+    - listitem:
+      - link "Acrobat Sign":
+        - /url: /sign.html
+    - listitem:
+      - link "Special offers":
+        - /url: /products/special-offers.html
+    - listitem:
+      - link "View plans and pricing":
+        - /url: /creativecloud/plans.html
+    - listitem:
+      - link "View all products":
+        - /url: /products/catalog.html?types=pf_252Fdesktop&types=pf_252Fmobile&types=pf_252Fweb
+  - heading "For business" [level=2]
+  - list:
+    - listitem:
+      - link "Creative Cloud Pro for business":
+        - /url: /creativecloud/business.html
+    - listitem:
+      - link "Creative Cloud Pro for enterprise":
+        - /url: /creativecloud/business/enterprise.html
+    - listitem:
+      - link "Acrobat for business":
+        - /url: /acrobat/business.html
+  - heading "For education" [level=2]
+  - list:
+    - listitem:
+      - link "Discounts for students and teachers":
+        - /url: /creativecloud/buy/students.html
+    - listitem:
+      - link "Schools and universities":
+        - /url: /education.html
+    - listitem:
+      - link "Digital Learning Solutions":
+        - /url: /elearning.html
+  - heading "For nonprofits" [level=2]
+  - list:
+    - listitem:
+      - link "Nonprofit overview":
+        - /url: /nonprofits.html
+  - heading "For mobile" [level=2]
+  - list:
+    - listitem:
+      - link "Apps for iOS":
+        - /url: https://apps.apple.com/us/developer/adobe-inc/id331646274
+    - listitem:
+      - link "Apps for Android":
+        - /url: https://play.google.com/store/search?q=adobe&c=apps
+  - heading "Experience Cloud" [level=2]
+  - list:
+    - listitem:
+      - link "What is Experience Cloud?":
+        - /url: https://business.adobe.com/
+    - listitem:
+      - link "Analytics":
+        - /url: https://business.adobe.com/products/analytics/adobe-analytics.html
+    - listitem:
+      - link "Experience Manager":
+        - /url: https://business.adobe.com/products/experience-manager/adobe-experience-manager.html
+    - listitem:
+      - link "Commerce":
+        - /url: https://business.adobe.com/products/magento/magento-commerce.html
+    - listitem:
+      - link "Marketo Engage":
+        - /url: https://business.adobe.com/products/marketo.html
+    - listitem:
+      - link "Workfront":
+        - /url: https://business.adobe.com/products/workfront.html
+    - listitem:
+      - link "Terms of Use":
+        - /url: /go/experiencecloudterms
+  - heading "Contact sales" [level=2]
+  - list:
+    - listitem:
+      - link "Chat with sales":
+        - /url: /#open-jarvis-chat
+    - listitem:
+      - link "Request information for businesses":
+        - /url: https://business.adobe.com/request-consultation.html
+  - heading "Support" [level=2]
+  - list:
+    - listitem:
+      - link "Download and install":
+        - /url: https://helpx.adobe.com/download-install.html
+    - listitem:
+      - link "Help Center":
+        - /url: https://helpx.adobe.com/support.html
+    - listitem:
+      - link "Adobe Learn":
+        - /url: /learn
+    - listitem:
+      - link "Adobe Community":
+        - /url: http://community.adobe.com/
+    - listitem:
+      - link "Enterprise Support":
+        - /url: https://helpx.adobe.com/contact/enterprise-support.html
+    - listitem:
+      - link "Genuine software":
+        - /url: /genuine.html
+  - heading "Resources" [level=2]
+  - list:
+    - listitem:
+      - link "Adobe Blog":
+        - /url: https://blog.adobe.com/
+    - listitem:
+      - link "Adobe Developer":
+        - /url: https://developer.adobe.com/
+  - heading "Adobe Account" [level=2]
+  - list:
+    - listitem:
+      - link "Log in to your account":
+        - /url: https://account.adobe.com/
+  - heading "Adobe" [level=2]
+  - list:
+    - listitem:
+      - link "About":
+        - /url: /about-adobe.html
+    - listitem:
+      - link "AI Overview":
+        - /url: /ai/overview.html
+    - listitem:
+      - link "Careers":
+        - /url: /careers.html
+    - listitem:
+      - link "Newsroom":
+        - /url: https://news.adobe.com/
+    - listitem:
+      - link "Corporate responsibility":
+        - /url: /corporate-responsibility.html
+    - listitem:
+      - link "Investor Relations":
+        - /url: /investor-relations.html
+    - listitem:
+      - link "Supply chain":
+        - /url: /corporate-responsibility/supply-chain.html
+    - listitem:
+      - link "Trust Center":
+        - /url: /trust.html
+    - listitem:
+      - link "Events":
+        - /url: /events.html
+    - listitem:
+      - link "Adobe for All":
+        - /url: /diversity.html
+    - listitem:
+      - link "Integrity":
+        - /url: /about-adobe/integrity.html
+  - heading "Featured products" [level=2]
+  - list:
+    - listitem:
+      - link "Adobe Acrobat Reader":
+        - /url: https://get.adobe.com/reader/
+    - listitem:
+      - link "Adobe Express":
+        - /url: https://www.adobe.com/express/?promoid=Z2G1FSYV&mv=other
+    - listitem:
+      - link "Photoshop":
+        - /url: https://www.adobe.com/products/photoshop/free-trial-download.html
+    - listitem:
+      - link "Illustrator":
+        - /url: https://www.adobe.com/products/illustrator/free-trial-download.html
+  - button "Change region"
+  - list:
+    - listitem:
+      - link "facebook":
+        - /url: https://www.facebook.com/adobe
+    - listitem:
+      - link "instagram":
+        - /url: https://www.instagram.com/adobe/
+    - listitem:
+      - link "twitter":
+        - /url: https://twitter.com/Adobe
+    - listitem:
+      - link "linkedin":
+        - /url: https://www.linkedin.com/company/adobe
+  - list:
+    - listitem: Copyright © 2025 Adobe. All rights reserved.
+    - listitem:
+      - link "Privacy":
+        - /url: /privacy.html
+    - listitem:
+      - link "Terms of Use":
+        - /url: /legal/terms.html
+    - listitem:
+      - link "Cookie preferences":
+        - /url: /#openPrivacy
+    - listitem:
+      - link "Do not sell or share my personal information":
+        - /url: /privacy/location-specific-notice.html#how-to
+    - listitem:
+      - link "AdChoices":
+        - /url: /privacy/opt-out.html#interest-based-ads
+```
